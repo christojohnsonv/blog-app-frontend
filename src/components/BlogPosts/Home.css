@@ -1,0 +1,10 @@
+/* .grid-container{
+    display: flex;
+} */
+
+
+.homeBodyContainer{
+    height: calc(100vh - 8vh - 8px);
+    /* 'calc(100% - 16px)' */
+    background-color: #F2F3F5;
+}

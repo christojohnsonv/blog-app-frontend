@@ -1,0 +1,62 @@
+.leftSideBarMainContainer{
+    /* display: flex; */
+    float: left;
+    height: 100%;
+    padding: 1vh;
+}
+
+
+/* .cardContainer{
+    padding: 2vh;
+} */
+
+.eachCard{
+    margin-bottom: 2vh;
+    border-radius: 50vh;
+}
+.card{
+    border-radius: 3vh;
+    box-shadow: 5px 2px 15px 2px rgb(160, 149, 149);
+
+}
+
+.catButton{
+    border-radius: 20px;
+    max-width: 200px;
+    border-color: rgb(183, 200, 194);
+    margin: 2px;
+}
+
+.catButton:hover{
+    border: 1px solid black;
+    box-shadow: 5px 2px 15px 1px rgb(160, 149, 149);
+
+}
+
+.searchBar{
+    margin: 3vh;
+    border-radius: 5vh;
+    color: black;
+    /* padding: 2vh; */
+    box-shadow: 5px 2px 15px 1px rgb(160, 149, 149);
+    background-color: black;
+    /* border: 1px solid black; */
+}
+.searchButton{
+    border: none;
+    color: rgb(0, 0, 0);
+    height: 4vh;
+    width: 20%;
+    background-color: white;
+}
+
+
+.searchInput{
+    border: none;
+    height: auto;
+}
+
+.searchInput:focus{
+    outline: none;
+}
+

@@ -1,0 +1,6 @@
+.rightSideBarMainContainer{
+    float: left;
+    background-color: darkorchid;
+    display: flex;
+    height: 100%;
+}

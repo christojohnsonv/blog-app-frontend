@@ -1,0 +1,50 @@
+.blogBodyMainContainer{
+    float: left;
+    height: max-content;
+    height: 100%;
+    overflow: scroll;
+    padding: 1vh;
+}
+
+.blogBodyMainContainer::-webkit-scrollbar{
+    display: none;
+}
+
+
+.bodyCard{
+    margin: 1vh;
+}
+
+
+.contentInput{
+    border: none;
+    height: 100%;
+    width: 100%;
+    border-radius: 10vh;
+}
+
+.contentInput:focus{
+    outline: none;
+}
+
+
+.contentInput:focus{
+    border: none;
+}
+
+.blogProfileImage{
+    height: 7vh;
+    width: 7vh;
+    border-radius: 50%;
+}
+
+.blogProfileInfo{
+    padding: 1vh;
+}
+
+.blogProfileName{
+    vertical-align: middle;
+    margin: 0px;
+    padding: 0px;
+
+}
